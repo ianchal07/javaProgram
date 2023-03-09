@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NucleusTeqAssignment.iml" filepath="$PROJECT_DIR$/NucleusTeqAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeekFirst/WeekFirst.iml" filepath="$PROJECT_DIR$/WeekFirst/WeekFirst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeekThird/WeekFourth.iml" filepath="$PROJECT_DIR$/WeekThird/WeekFourth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeekSecond/WeekSecond.iml" filepath="$PROJECT_DIR$/WeekSecond/WeekSecond.iml" />
+    </modules>
+  </component>
+</project>
