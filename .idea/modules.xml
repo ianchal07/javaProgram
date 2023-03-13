@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NucleusTeqAssignment.iml" filepath="$PROJECT_DIR$/NucleusTeqAssignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/WeekFirst/WeekFirst.iml" filepath="$PROJECT_DIR$/WeekFirst/WeekFirst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeekFive/WeekFive.iml" filepath="$PROJECT_DIR$/WeekFive/WeekFive.iml" />
       <module fileurl="file://$PROJECT_DIR$/WeekThird/WeekFourth.iml" filepath="$PROJECT_DIR$/WeekThird/WeekFourth.iml" />
       <module fileurl="file://$PROJECT_DIR$/WeekSecond/WeekSecond.iml" filepath="$PROJECT_DIR$/WeekSecond/WeekSecond.iml" />
     </modules>
