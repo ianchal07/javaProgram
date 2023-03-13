@@ -1,0 +1,23 @@
+
+7
+java:S1220""Move this file to a named package.8µ”Å¬ì0
+a
+java:S1659"DDeclare "address" and all following declarations on a separate line.(‡¥”ü8¯Š³¬ì0
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(³Û÷8ÀŠ³¬ì0
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(İÑŸşüÿÿÿÿ8ÈŠ³¬ì0
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(Èûà¹8ÊŠ³¬ì0
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(¤ºúÿÿÿÿ8ÌŠ³¬ì0
+U	java:S106`"9Replace this use of System.out or System.err by a logger.(ÇıÄ8ÍŠ³¬ì0
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(ßâØ–8ĞŠ³¬ì0
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(¤ºúÿÿÿÿ8ÔŠ³¬ì0
+U	java:S106s"9Replace this use of System.out or System.err by a logger.(ÀßÔú8ÕŠ³¬ì0
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(Üëä÷ùÿÿÿÿ8ØŠ³¬ì0
+Z	java:S106y"9Replace this use of System.out or System.err by a logger.(‡–¦àÿÿÿÿÿ8ÙŠ³¬ì0
+Z	java:S106}"9Replace this use of System.out or System.err by a logger.(û²“ÿÿÿÿÿ8ÛŠ³¬ì0
+Y
+java:S1854„"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8ŞŠ³¬ì0
+J
+java:S1481„"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8åŠ³¬ì0
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ÈÜàËûÿÿÿÿ8æŠ³¬ì0
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8éŠ³¬ì0
+V	java:S106‘"9Replace this use of System.out or System.err by a logger.(Şò‰ÿ8êŠ³¬ì0

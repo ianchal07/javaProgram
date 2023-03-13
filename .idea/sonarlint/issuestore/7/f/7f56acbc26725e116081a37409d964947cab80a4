@@ -1,0 +1,20 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿôé«8Æû×ë0
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÛù8Ÿáü×ë0
+0
+java:S1220""Move this file to a named package.
+8
+java:S3626
+"Remove this redundant jump.(ûÁİ…8”ìŠØë0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(âÃ§à8ƒ³„Øë0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ëº§øÿÿÿÿ8ƒ³„Øë0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ê£Áç8’×…Øë0
+T	java:S106	"9Replace this use of System.out or System.err by a logger.(´ã\8”×…Øë0
+8
+java:S3626"Remove this redundant jump.(ûÁİ…8•›‹Øë0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(âÃ§à8•×…Øë0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ëº§øÿÿÿÿ8ñô…Øë0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ê£Áç8óô…Øë0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(è¼ü•ÿÿÿÿÿ8éõ‡Øë0
+`
+java:S1659">Declare "r" and all following declarations on a separate line.(úõ»ûÿÿÿÿ8 ¦Øë0
