@@ -1,41 +1,0 @@
-
-e
-java:S1192"HDefine a constant instead of duplicating this literal " Dollar" 3 times.(™Í·–8Ş¡…¬ì0
-c
-java:S1192#"FDefine a constant instead of duplicating this literal " Euro" 3 times.(¾¶‰8à¡…¬ì0
-f
-java:S1192@"IDefine a constant instead of duplicating this literal " euro = " 3 times.(Î¹ß‘8à¡…¬ì0
-m
-java:S1192("KDefine a constant instead of duplicating this literal " Dollar = " 3 times.(ìşĞŞùÿÿÿÿ8à¡…¬ì0
-g
-java:S1192"JDefine a constant instead of duplicating this literal " Rupee = " 3 times.(™Í·–8à¡…¬ì0
-i
-java:S1192 "GDefine a constant instead of duplicating this literal " Pound" 3 times.(Š»„çşÿÿÿÿ8™¢…¬ì0
-l
-java:S11924"JDefine a constant instead of duplicating this literal " pound = " 3 times.(“ûúÛÿÿÿÿÿ8¸¢…¬ì0
-j
-java:S1192("HDefine a constant instead of duplicating this literal " Rupees" 3 times.(ìşĞŞùÿÿÿÿ8ç¢…¬ì0
-0
-java:S1220""Move this file to a named package.
-e
-java:S1659"CDeclare "dollar" and all following declarations on a separate line.(íÙÃÇøÿÿÿÿ8ó£…¬ì0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(’ŸöÓøÿÿÿÿ8‘¤…¬ì0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(–œóüıÿÿÿÿ8£¤…¬ì0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ¤Áğ8³¤…¬ì0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ûëÒœ8Â¤…¬ì0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(å‹¨‹úÿÿÿÿ8Ò¤…¬ì0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(—ï›8â¤…¬ì0
-T	java:S106"9Replace this use of System.out or System.err by a logger.(Ššúb8ñ¤…¬ì0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(™Í·–8ñ¤…¬ì0
-Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Š»„çşÿÿÿÿ8¥…¬ì0
-U	java:S106#"9Replace this use of System.out or System.err by a logger.(¾¶‰8¥…¬ì0
-Z	java:S106("9Replace this use of System.out or System.err by a logger.(ìşĞŞùÿÿÿÿ8 ¥…¬ì0
-Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ÃæÙ™ùÿÿÿÿ8°¥…¬ì0
-Z	java:S106."9Replace this use of System.out or System.err by a logger.(æäú±ıÿÿÿÿ8¿¥…¬ì0
-Z	java:S1064"9Replace this use of System.out or System.err by a logger.(“ûúÛÿÿÿÿÿ8Ï¥…¬ì0
-Z	java:S1067"9Replace this use of System.out or System.err by a logger.(‘ëŒ«üÿÿÿÿ8ß¥…¬ì0
-U	java:S106:"9Replace this use of System.out or System.err by a logger.(ÿõùÒ8î¥…¬ì0
-U	java:S106@"9Replace this use of System.out or System.err by a logger.(Î¹ß‘8ş¥…¬ì0
-T	java:S106C"9Replace this use of System.out or System.err by a logger.(Îì¤V8¦…¬ì0
-Z	java:S106F"9Replace this use of System.out or System.err by a logger.(£èıŒşÿÿÿÿ8¦…¬ì0
-Z	java:S106K"9Replace this use of System.out or System.err by a logger.(şñ‚Ÿıÿÿÿÿ8Ÿ¦…¬ì0

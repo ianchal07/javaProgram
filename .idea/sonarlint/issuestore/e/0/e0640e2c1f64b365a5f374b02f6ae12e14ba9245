@@ -1,7 +1,0 @@
-
-0
-java:S1220""Move this file to a named package.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8Š£Å×ë0
-8
-java:S1116"Remove this empty statement.(ıÕo8Š£Å×ë0
-T	java:S106	"9Replace this use of System.out or System.err by a logger.(ƒÚáB8Š£Å×ë0
