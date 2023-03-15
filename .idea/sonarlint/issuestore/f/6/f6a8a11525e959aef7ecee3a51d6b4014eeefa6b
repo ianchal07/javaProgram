@@ -1,0 +1,11 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²¼Ñö
+j
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ç¡ß²ûÿÿÿÿ8²’ÅÞí0
+c	java:S899"BDo something with the "boolean" value returned by "createNewFile".(ô©È¾ýÿÿÿÿ8äøÅÞí0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Î—¦é8ÑëÃÞí0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ï²Åíøÿÿÿÿ8ÑëÃÞí0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µ •†þÿÿÿÿ8ÑëÃÞí0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ž—Ý©8àëÃÞí0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(á‚Ü³øÿÿÿÿ8âëÃÞí0
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8âëÃÞí0
